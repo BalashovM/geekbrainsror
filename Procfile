@@ -1,1 +1,1 @@
-web: rackup -Ilib -p 9292
+web: rackup -p $PORT
